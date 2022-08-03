@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://link-easy.herokuapp.com/'</initValue>
+      <name>G_BASE_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJqYWdhZHdwIiwiYWRtaW4iOnRydWUsImV4cCI6MTY2MDY4MTkxMX0._l2WWL06Jpz54Y0M4-9cAM9lTrJhUbjW9_AL3rhaG2s'</initValue>
+      <name>G_TOKEN</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
